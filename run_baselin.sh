@@ -22,11 +22,11 @@ function create_dataset() {
 }
 
 
-function train_seq2seq3() {
+function train_baseline() {
     run_train="torchrun \
     --standalone \
     --nproc_per_node=${nproc_per_node} \
-    train.py \
+    train_baseline.py \
     --train_file ${data_dir}/proc_data_wz${window_size}_wo_balance/train.json \
     --dev_file ${data_dir}/proc_data_wz${window_size}_wo_balance/dev.json \
     --model_name ${model_name} \
@@ -44,11 +44,11 @@ function train_seq2seq3() {
 }
 
 
-function test_seq2seq3() {
+function test_baseline() {
     run_train="torchrun \
     --standalone \
     --nproc_per_node=${nproc_per_node} \
-    test.py \
+    test_baseline.py \
     --test_file ${data_dir}/proc_data_wz${window_size}_wo_balance/test.json \
     --key_val_file ${code_dir}/value_set2.json \
     --model_name ${model_name} \
@@ -83,10 +83,10 @@ eval_out=eval_constraint_decode
 
 if [ $1 == 'train' ];
 then
-  train_seq2seq3
+  train_baseline
 elif [ $1 == 'test' ];
 then
-  test_seq2seq3
+  test_baseline
 elif [ $1 == 'split_dataset' ];
 then
   split_dataset
