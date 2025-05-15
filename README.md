@@ -17,7 +17,7 @@ entity extraction model.
 To use this interface, you need clone this 
 repository
 ```shell
-git clone git@github.com:ZVengin/TourismDialogue.git
+git clone git@github.com:mynlp/TourismDialogue.git
 ```
 Then start the web page server with the 
 following command.
