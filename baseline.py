@@ -9,7 +9,7 @@ from transformers import AutoTokenizer, BartForConditionalGeneration, AutoModelF
 import logging
 import argparse
 
-wandb.login(key='9d7a9f4b55d10a8c3191aa06a44756b328350f4b')
+wandb.login(key='your key here!')
 device = torch.device('cuda')
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -  %(message)s')
 logger = logging.getLogger(__name__)
