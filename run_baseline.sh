@@ -87,7 +87,23 @@ constraint_decode="--constraint_decode"
 eval_out=eval_constraint_decode
 #eval_out=eval
 
-
+if [ $1 == 'train' ];
+then
+  train_seq2seq3
+elif [ $1 == 'test' ];
+then
+  test_seq2seq3
+elif [ $1 == 'split_dataset' ];
+then
+  split_dataset
+elif [ $1 == 'create_dataset' ];
+then
+  create_dataset
+else
+  echo "$1 is invalid mode!"
 #train_seq2seq3
-test_seq2seq3
+#test_seq2seq3
+
+
+
 
