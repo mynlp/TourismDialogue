@@ -1,0 +1,2777 @@
+[
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u672c\u65e5\u306f\u3054\u5229\u7528\u3044\u305f\u3060\u304d\u307e\u3057\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002",
+      "\u3042\u306e\u3001\u3069\u3046\u3044\u3063\u305f\u3054\u65c5\u884c\u3092\u3054\u5e0c\u671b\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u306f\u3044\u3002",
+      "\u3042\u306e\u3001\u3061\u3087\u3063\u3068\u6700\u8fd1\u3001\u53e4\u3044\u5efa\u7bc9\u7269"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u304c\u597d\u304d\u3067\u3001\u5199\u771f\u3092\u3088\u304f\u898b\u305f\u308a\u3057\u3066\u308b\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3061\u3087\u3063\u3068\u5b9f\u969b\u306b\u8272\u3005\u884c\u3063\u3066\u307f\u305f\u3044\u306a\u3068\u601d\u3063\u3066\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5834\u6240\u3068\u304b\u306f\u4f55\u304b\u3042\u308a\u307e\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u3001\u5834\u6240\u306f\u7279\u306b\u306a\u3044\u3093\u3067\u3059\u3051\u3069\u3001\u3042\u306e\u30fc\u3001\u306a\u3093\u304b\u660e\u6cbb\u304b\u3089\u662d\u548c\u3050\u3089\u3044\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u306e\u3001\u53e4\u3044\u5efa\u7bc9\u7269\u3001\u897f\u6d0b\u9928\u307f\u305f\u3044\u306a\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3084\u3064\u3068\u304b\u3001\u305d\u3046\u3044\u3063\u305f\u3082\u306e\u306b\u884c\u3063\u3066\u307f\u305f\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u30ec\u30c8\u30ed\u306a\u5efa\u7269\u3067\u3059\u3088\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u3042\u3042\u306e\u3001\u8272\u3005\u3042\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u307e\u3042\u672d\u5e4c\u3067\u3059\u3068"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u5317\u6d77\u9053\u5927\u5b66\u306e\u690d\u7269\u5712\u3002",
+      "\u5bae\u90e8\u91d1\u543e\u308d\u3046\u535a\u7269\u3001\u8a18\u5ff5\u9928\u3068\u304b\u3063\u3066\u3044\u3046\u306e\u304c\u3054\u3056\u3044\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u307e\u3042\u3042\u306e\u3001\u5317\u6d77\u9053\u5927\u5b66\u306e\u4e2d\u306e\u690d\u7269\u5712\u307f\u305f\u3044\u306a\u611f\u3058\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u305d\u3046\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3053\u3046\u3044\u3063\u305f\u306e\u306f\u3044\u304b\u304c\u3067\u3059\u304b\uff1f\u3082\u3063\u3068"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3069\u3063\u3061\u304b\u3068\u3044\u3046\u3068\u5efa\u7269\u304c\u898b\u305f\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5efa\u7269\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3048\u3063\u3068\u3001\u3042\u3068\u306f",
+      "\u3046\u30fc\u3093",
+      "\u5317\u6d77\u9053\u306e\u958b\u62d3\u306e\u6751\u3068\u304b\u3044\u304b\u304c\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u958b\u62d3\u306e\u6751\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3069\u3046\u3044\u3063\u305f\u65bd\u8a2d\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u65bd\u8a2d\u3067\u306f\u306a\u304f\u3066\u3001",
+      "\u306a\u3093\u3066\u3044\u3046\u3093\u3067\u3059\u304b\u3001\u6614\u3053\u3093\u306a\u751f\u6d3b\u3092\u3057\u3066\u307e\u3057\u305f\u3063\u3066"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "1\u56de\u660e\u6cbb\u3001\u5927\u6b63\u6642\u4ee3\u306b",
+      "\u3042\u306e\u30fc\u5efa\u3066\u3089\u308c\u305f\u5efa\u7269\u3092\u79fb\u7bc9\u3057\u3066"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u79fb\u7bc9\u3057\u3066\u3044\u308b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u4f5c\u3063\u3066\u308b\u3001\u5712\u3092\u4f5c\u3063\u3066\u308b\u3001\u5712\u3092\u4f5c\u3063\u3066\u308b\u3063\u3066\u5f62\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u305d\u3046\u306a\u3093\u3067\u3059\u304b"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u9c0a\u5c0f\u5c4b\u307f\u305f\u3044\u306a\u3001\u9c0a\u5fa1\u6bbf\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u9c0a\u756a\u5c4b\u307f\u305f\u3044\u306a\u3001\u77f3\u9020\u308a\u306e\u3067\u304d\u3066\u3044\u308b\u3001",
+      "\u3042\u306e\u3001\u672c\u5f53\u306b\u6b74\u53f2\u7684\u306a\u8cb4\u91cd\u306a"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5efa\u7269\u3068\u304b\u3092\u9593\u8fd1\u306b\u898b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3089\u3057\u3044\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3048\u3048\u3001\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u306a\u3093\u304b\u9762\u767d\u305d\u3046\u3063\u3061\u3083\u9762\u767d\u305d\u3046\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3069\u306e\u3050\u3089\u3044\u5efa\u7269\u304c\u3042\u308b\u3093\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "4\u30d6\u30ed\u30c3\u30af\u306b\u5225\u308c\u3066\u3044\u307e\u3057\u3066\u3042\u306e"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002\u5e02\u8857\u5730\u3001\u8fb2\u6751\u5730\u3001\u4e21\u6751\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u306f\u3001\u5c71\u6751\u3068\u3044\u3046\u611f\u3058\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u4e00\u3064\u306e\u6614\u3001\u306a\u3093\u3066\u3044\u3046\u306e\u304b\u306a\u3001\u305d\u306e\u6b21\u4ee3\u306e"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u7a7a\u6c17\u611f\u304c\u8aad\u3081\u308b\u307f\u305f\u3044\u306a\u611f\u3058\u306e"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u3076\u3057\u3001\u5834\u6240\u3089\u3057\u3044\u307f\u305f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5834\u6240\u3067\u3001\u307f\u305f\u3044\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u7d50\u69cb\u3042\u306e\u3001\u9c0a\u5fa1\u6bbf\u3068\u304b\u306f\u7d50\u69cb\u5927\u304d\u3044\u306e\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u898b\u3054\u305f\u3048\u306f\u3042\u308b\u3068\u601d\u3046\u3093\u3067\u3059\u3051\u308c\u3069\u3082"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3044\u304b\u304c\u3067\u3057\u3087\u3046\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u9c0a\u5fa1\u6bbf\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u753a\u4e26\u307f\u304c\u6563\u7b56\u3067\u304d\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u3001\u305d\u3046\u306a\u3093\u3067\u3059\u304b\u3002",
+      "\u305d\u308c\u306f\u65e5\u672c\u307d\u3044\u5efa\u7bc9\u306a\u3093\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3001\u3042\u306e"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u897f\u6d0b\u3063\u307d\u3044\u611f\u3058\u3067"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u65e5\u672c\u3068\u897f\u6d0b\u304c\u878d\u5408\u3057\u3066\u308b\u611f\u3058\u3060\u3068\u601d\u308f\u308c\u307e\u3059\u3051\u3069\u3082"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u3053\u3053\u306b\u306f\u9244\u9053\u3068\u304b\u304c\u8d70\u3063\u3066\u308b\u3063\u3066"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u51ac\u306f\u5834\u6240\u3001\u3042\u306e"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306a\u3093\u3066\u3044\u3046\u3001\u99ac\u6a47\u3067\u3059\u304b\u3002",
+      "\u99ac\u306e\u30bd\u30ea\u3068\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3042\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u65e7\u5c0f\u6a3d\u65b0\u805e\u793e\u3068\u304b\u3001\u8a72\u5f53\u3054\u3056\u3044\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u3042\u3001\u6b74\u53f2\u7684\u306b\u3059\u3054\u304f\u3042\u306e\u3001\u3058\u3085\u3046\u3001\u8cb4\u91cd\u306a\u5efa\u7269\u304c\u3042\u308b\u307f\u305f\u3044\u3067\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3046\u3093\u3002",
+      "\u3042\u3001\u305d\u3046\u306a\u3093\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u5b63\u7bc0\u3054\u3068\u306b\u69d8\u3005\u306a\u5e74\u4e2d\u884c\u4e8b\u304c\u5b9f\u65bd\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306a\u3093\u304b\u3001\u6614\u306e\u751f\u6d3b\u304c\u4f53\u9a13\u3067\u304d\u308b\u307f\u305f\u3044\u306a\u611f\u3058\u304c\u3057\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3075\u30fc\u3093\u3002",
+      "\u3042\u3001\u9762\u767d\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u306e\u3001\u5b63\u7bc0\u3001\u5b63\u7bc0\u7684\u306b\u306f\u3069\u308c\u304f\u3089\u3044\u306e\u5b63\u7bc0\u304c\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u5b63\u7bc0\u306f\u305d\u3046\u3067\u3059\u306d\u3001\u79cb\u3002",
+      "\u304b\u3089\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u79cb\u304c\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3001\u3053\u3053\u306f\u3042\u306e\u3001\u56db\u5b63\u6298\u3005\u8272\u3005\u697d\u3057\u3081\u308b\u306e\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u51ac\u306f\u3055\u3063\u304d\u8a00\u3063\u305f\u99ac\u6a47\u3068\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u590f\u306f\u6563\u7b56\u3068\u304b\u3057\u3066\u3001\u3042\u3068\u9c0a\u5fa1\u6bbf\u3068\u304b\u3082\u898b\u3066\u6b69\u304f\u3068\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3093\u306a\u611f\u3058\u306a\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u51ac\u3067\u3082\u3046\u3084\u3063\u3066\u308b\u3093\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3001\u51ac\u306f\u3082\u3046\u99ac\u6a47\u3084\u3063\u3066\u307e\u3059\u306d\u3002",
+      "\u3067\u3001\u3042\u306e\u3001\u55b6\u696d\u6642\u9593\u304c9\u6642\u304b\u3089\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "17\u6642\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u300110\u6708\u304b\u30894\u6708\u306f\u3042\u306e16\u300116\u664230\u5206\u307e\u3067\u306b\u306a\u3063\u3066\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3082\u3046\u3061\u3087\u3063\u3068\u65e9\u304f\u7d42\u308f\u3063\u3066\u3057\u307e\u3046\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u3048\u3048\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u3042\u3042\u306e\u3001\u6708\u66dc\u65e5\u304c\u304a\u4f11\u307f\u3067\u3002",
+      "\u795d\u65e5\u306e\u5834\u5408\u306f\u7fcc\u65e5\u304c\u4f11\u307f\u306b\u306a\u308b\u306e\u3067\u3001\u3053\u306e\u304a\u4f11\u307f\u3001\u3042\u3068\u306f5\u6708\u306e\u3001\u304b\u30899\u6708\u306f\u304a\u4f11\u307f\u3067\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3093\u30015\u6708\u304b\u30899\u6708\u3002",
+      "\u306a\u3001\u590f\u304c\u304a\u4f11\u307f\u306a\u3093\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3001\u3054\u3081\u3093\u306a\u3055\u3044\u3001\u7121\u4f11\u3067\u3059\u3002",
+      "\u3059\u3044\u307e\u305b\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u7121\u4f11\u3002",
+      "\u3042\u3001\u306f\u3044\u3001\u5206\u304b\u308a\u307e\u3057\u305f\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5931\u793c\u3057\u307e\u3057\u305f\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3067\u3001\u5165\u5834\u6599\u304c\u5927\u4eba\u304c800\u5186\u306b\u306a\u308a\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002\u3042\u306e\u3001\u3054\u5bb6\u65cf\u9023\u308c\u3067\u3044\u3089\u3063\u3057\u3083\u3044\u307e\u3059\u304b\uff1f",
+      "\u3042\u3001\u3044\u3048\u30011\u4eba\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u304a1\u4eba\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3067\u306f\u3042\u306e\u3001800\u5186\u3067\u3001\u5927\u4eba\u306f800\u5186\u3067\u898b\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u306f\u3044\u3002",
+      "\u306f\u3044\u3002",
+      "\u5206\u304b\u308a\u307e\u3057\u305f\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u4eca\u3001\u5317\u6d77\u9053\u3067\u3059\u3088\u306d\u3002",
+      "\u4ed6\u306e\u5730\u65b9\u3068\u304b\u3067\u3082\u305d\u3046\u3044\u3063\u305f\u3042\u306e\u30fc\u3001\u5efa\u7269\u304c\u3044\u3063\u3071\u3044\u898b\u308c\u308b\u65bd\u8a2d\u3063\u3066\u3042\u308a\u307e\u3059\u304b\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u30fc\u3001\u5c11\u3005\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u307e\u305b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u307e\u3001\u7279\u306b\u3042\u306e\u3001\u3054\u6307\u5b9a\u304c\u306a\u3051\u308c\u3070\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u4eca\u95a2\u6771\u306e\u307b\u3046\u3067\u898b\u3066\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u306f\u3044\u3001\u3082\u3046\u65e5\u672c\u5168\u56fd\u3002",
+      "\u3069\u3053\u3067\u3082\u3044\u3044\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3046\u30fc\u3093\u3001\u5efa\u7269\u3067\u3042\u308a\u307e\u3059\u3068\u3057\u3088\u3001\u5869\u5c71\u3001\u5869\u753a\u9928\u3068\u3044\u3046\u306e\u304c\u3042\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u3053\u308c\u306f\u3042\u306e\u5965\u4e45\u6148\u3068\u3044\u3046\u3001\u65e5\u7acb\u306e\u5965\u4e45\u6148\u3068\u3044\u3046\u3068\u3053\u308d\u306b\u3042\u308a\u3001\u8328\u57ce\u770c\u3067\u3059\u306d\u3002",
+      "\u3048\u3063\u3068\u660e\u6cbb20\u5e74\u5efa\u7bc9\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u592a\u7530\u9280\u884c\u306e\u5efa\u7269\u3092\u5229\u7528\u3057\u3066\u3044\u308b\u3068\u3044\u3046\u306e\u304c\u3075\u3046\u3058\u3087\u3046\u304c\u307f\u3001\u305d\u3070\u5c4b\u306e\u304a\u5e97\u3001\u304a\u854e\u9ea6\u5c4b\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u307e\u3042\u3059\u3054\u3044\u3001\u672c\u5f53\u306b\u767d\u3044\u3001\u5e73\u58c1\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u3001\u304a\u854e\u9ea6\u5c4b\u3055\u3093\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305f\u3060\u3001\u3053\u3053\u3060\u3051\u3063\u3066\u306a\u3063\u3061\u3083\u3046\u306e\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u306a\u308b\u307b\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u8fd1\u304f\u306b\u30ab\u30eb\u30c1\u30e3\u30fc\u30bb\u30f3\u30bf\u30fc\u3068\u304b\u3082\u3042\u308a\u307e\u3059\u3002",
+      "\u5408\u308f\u305b\u3066\u898b\u3066\u3044\u305f\u3060\u3051\u308c\u3070\u697d\u3057\u3081\u308b\u3093\u3067\u306f\u306a\u3044\u304b\u3068\u601d\u3046\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u3001\u8fd1\u304f\u306b\u3067\u3059\u306d\u3001\u79cb\u8449\u3053\u3046\u3001\u7cc0\u5473\u564c\u91b8\u9020\u3066\u3044\u3046\u3002",
+      "\u3042\u306e\u3001\u5473\u564c\u306e\u5de5\u5834\u307f\u305f\u3044\u306a\u306e\u3082\u3042\u3063\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3046\u3093\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u5efa\u7269\u304c\u3084\u3063\u3071\u308a\u53e4\u3044\u3001\u571f\u8535\u3001\u571f\u8535\u306e2\u968e\u5efa\u3066\u306e\u5bb6\u304c\u3042\u3063\u305f\u308a\u3068\u304b\u3063\u3066\u3044\u3046\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u30fc\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u3042\u3042\u306e\u30011\u500b\u306e\u3068\u3053\u308d\u3001\u3055\u3063\u304d\u307f\u305f\u3044\u306b\u307e\u3068\u307e\u3063\u3066\u3044\u308b\u308f\u3051\u3067\u306f\u306a\u304f\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u8272\u3093\u306a\u3068\u3053\u308d\u3092\u6b69\u304d\u56de\u308b\u307f\u305f\u3044\u306a\u611f\u3058\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u30fc\u306a\u308b\u307b\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "1\u4eba\u6b69\u304d\u307f\u305f\u3044\u306a\u611f\u3058\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3044\u304b\u304c\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002",
+      "\u3042\u306e\u3069\u3063\u3061\u304b\u3063\u3066\u3044\u3046\u3068\u3042\u306e\u3001\u548c\u98a8\u3088\u308a\u6d0b\u98a8\u306e\u5efa\u7bc9\u3092\u898b\u305f\u3044\u3093\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u30fc\u6d0b\u98a8\u5efa\u7bc9\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3058\u3083\u3042\u3061\u3087\u3063\u3068\u307e\u305f\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002\u8abf\u3079\u3066\u307f\u307e\u3059\u306d\u3002",
+      "\u3059\u3044\u307e\u305b\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3059\u3054\u3044\u98db\u3093\u3058\u3083\u3046\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u798f\u5ca1\u306e\u307b\u3046\u306b\u3042\u308b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u798f\u5ca1\u3001\u306f\u3044\u3001"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3001",
+      "\u3042\u306e\u30fc\u798f\u5ca1\u3001\u3048\u30fc\u770c\u3001\u770c\u306e\u516c\u4f1a\u5802\u8cb4\u8cd3\u9928\u3068\u304b\u3002",
+      "\u3042\u306e\u3001\u307e\u3042\u8cb4\u8cd3\u9928\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307f\u3001\u898b\u308b\u304b\u3089\u306b\u897f\u6d0b\u5efa\u7bc9\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3046\u3093\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u660e\u6cbb\u6642\u4ee3\u306e\u30d5\u30ec\u30f3\u30c1\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u3092\u304f\u3001\u57fa\u8abf\u306b\u3057\u305f\u3002",
+      "\u3042\u306e\u3001\u56fd\u306e\u91cd\u8981\u6587\u5316\u8ca1\u306b\u306a\u3063\u3066\u308b\u3068\u3053\u308d\u306a\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3075\u30fc\u3093\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306a\u3093\u304b\u5927\u7406\u77f3\u306e\u6696\u7089\u3068\u304b\u898b\u3089\u308c\u308b\u307f\u305f\u3044\u306a\u3068\u3053\u308d\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3078\u30fc\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u7acb\u6d3e\u306a\u5efa\u7269\u304c\u3042\u3063\u3066\u3001\u307e\u3042\u8fd1\u304f\u306b\u306f\u307e\u305f\u8d64\u30ec\u30f3\u30ac\u306e\u6587\u5316\u9928\u3068\u304b\u3082\u3054\u3056\u3044\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3044\u304b\u304c\u3067\u3059\u304b\u306d\uff1f\u798f\u5ca1\u306e\u307b\u3046\u306e\u3053\u3046\u3044\u3046\u3001\u897f\u6d0b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3001\u4ed6\u306b\u3082\u8fd1\u304f\u306b\u305d\u3046\u3044\u3046\u5efa\u7269\u304c\uff1f",
+      "\u3042\u308b\u3093\u3067\u3059\u304b\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u4ed6\u306b\u306f\u3061\u3087\u3063\u3068\u898b\u5f53\u305f\u3089\u306a\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u798f\u5ca1\u3063\u3066\u798f\u5ca1\u5e02\u3067\u3059\u304b\uff1f\u3061\u306a\u307f\u306b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3060\u3001\u592a\u5bb0\u5e9c\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u592a\u5bb0\u5e9c\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u3068\u306f\u3055\u3063\u304d\u3001\u305d\u3046\u3067\u3059\u306d\u3001\u3055\u3063\u304d\u306e\u3068\u3053\u308d\u3082\u592a\u5bb0\u5e9c\u3067\u3002",
+      "\u3042\u306e\u5168\u90e8\u592a\u5bb0\u5e9c\u306b\u306a\u308a\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u30fc\u3001\u592a\u5bb0\u5e9c\u5929\u6e80\u5bae\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306e\u8fd1\u304f\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5929\u6e80\u5bae\u3082\u8fd1\u3044\u3067\u3059\u306d\u3001\u306f\u3044\u3002",
+      "\u5929\u6e80\u5bae\u306e\u307b\u3046\u3082\u898b\u307e\u3001\u898b\u3066\u307f\u307e\u3057\u3087\u3046\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3067\u3082\u3001\u5929\u6e80\u5bae\u306f\u65e5\u672c\u306e\u5efa\u7269\u306b\u306a\u3063\u3061\u3083\u3046\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5929\u6e80\u5bae\u3060\u3068\u3001\u3061\u3087\u3063\u3068\u3069\u3093\u306a\u306e\u304c\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u592a\u5bb0\u5e9c\u5929\u6e80\u5bae\u3068\u3044\u3046\u611f\u3058\u3067\u306f\u3001\u3061\u3087\u3063\u3068\u306a\u3044\u3093\u3067\u3059\u3051\u3069\u3001\u3061\u3087\u3063\u3068\u5f85\u3063\u3066\u304f\u3060\u3055\u3044\u306d\u3002",
+      "\u3046\u30fc\u3093\u3002",
+      "\u7533\u3057\u8a33\u3054\u3056\u3044\u307e\u305b\u3093\u3001\u592a\u5bb0\u5e9c\u5929\u6e80\u5bae\u3001\u3042\u3002",
+      "\u304b\u306a\u308a\u3001\u51fa\u3066\u3053\u306a\u3044\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u3002",
+      "\u5929\u6e80\u5bae\u304c\u3044\u3044\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3044\u3084\u3001\u306a\u3093\u304b\u8fd1\u304f\u306b\u305d\u3046\u3044\u3063\u305f\u5efa\u7269\u304c\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u3088\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u308b\u304b\u306a\u3068\u601d\u3063\u305f\u3060\u3051\u306a\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u798f\u5ca1\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3001\u798f\u5ca1\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3046\u3093\u3002",
+      "\u592a\u5bb0\u5e9c\u5929\u6e80\u5bae\u3067\u691c\u7d22\u3057\u76f4\u3057\u3057\u307e\u3059\u306d\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u798f\u5ca1\u3068\u3061\u3087\u3063\u3068\u51fa\u3066\u3053\u306a\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u305d\u3046\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002\u3061\u3087\u3063\u3068\u3058\u3083\u3042\u9055\u3046\u5730\u65b9\u3001\u95a2\u897f\u5730\u65b9\u3068\u304b\u3069\u3046\u3067\u3059\u304b\u3002",
+      "\u95a2\u897f\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002\u5c11\u3005\u304a\u5f85\u3061\u4e0b\u3055\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5929\u6e80\u5bae\u304c\u3061\u3087\u3063\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u5929\u6e80\u5bae\u3058\u3083\u306a\u304f\u3066\u3048\u3063\u3068\u3002",
+      "\u6d0b\u98a8\u306e\u3001\u897f\u6d0b\u98a8\u306e\u5efa\u7bc9\u7269\u3092\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5c11\u3005\u304a\u5f85\u3061\u4e0b\u3055\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3001\u898b\u305f\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u8fd1\u757f\u5730\u65b9\u306e\u3042\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5efa\u7bc9\u7269\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3067\u3001\u660e\u6cbb\u304b\u3089\u662d\u548c\u3050\u3089\u3044\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3048\u3063\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u897f\u6d0b\u306e\u5efa\u7269\u3067\u3059\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3061\u3087\u3063\u3068\u51fa\u3066\u3053\u306a\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u65e5\u672c\u306e\u53f2\u8de1\u3068\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u677e\u962a\u5e02\u306e\u5e02\u6c11\u3001\u3042\u3001\u770c\u3001\u3042\u306e\u6c11\u4fd7\u8cc7\u6599\u9928\u307f\u305f\u3044\u306a\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u7d50\u69cb\u9762\u767d\u305d\u3046\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u30fc\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3044\u304b\u304c\u3067\u3059\u304b\uff1f\u3042\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u3042\u8fd1\u3044\u3002\u3061\u3087\u3063\u3068\u601d\u3063\u3066\u305f\u306e\u3068\u9055\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u3067\u3059\u3002",
+      "\u9055\u3044\u307e\u3059\u304b\uff1f\u3048\u30fc\u3063\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u306e\u3001\u306a\u3093\u3060\u3001\u6a2a\u6d5c\u306e\u5c71\u624b\u306e\u897f\u6d0b\u9928\u307f\u305f\u3044\u306a\u306e\u3042\u308a\u307e\u3059\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u30fc\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3042\u3044\u3046\u611f\u3058\u306e\u898b\u305f\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u8fd1\u757f\u3067\u3067\u3059\u3088\u306d\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u8fd1\u757f\u306e\u8fba\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u3067\u3042\u308c\u3070\u3002",
+      "\u3058\u3083\u3042\u3082\u3046\u4e00\u5ea6\u78ba\u8a8d\u3057\u3066\u307f\u307e\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u795e\u6238\u306e\u7a0e\u95a2\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5e83\u5831\u5c55\u793a\u5ba4\u3063\u3066\u3044\u3046\u306e\u304c\u3042\u308b\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u30fc\u3048\u30fc\u3048\u30fc\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5efa\u7269\u81ea\u4f53\u306f\u975e\u5e38\u306b\u30ec\u30c8\u30ed\u306e\u611f\u3058\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u3001\u53e4\u3044\u5efa\u7269\u306a\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u4e2d\u306b\u3042\u306e\u305d\u306e\u7a0e\u95a2\u306e\u3053\u3046\u3001\u307e\u3042\u6b74\u53f2\u307f\u305f\u3044\u306a\u3082\u306e\u304c\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u98fe\u3089\u308c\u3066\u3044\u305f\u308a\u3068\u304b\u3059\u308b\u3082\u306e\u306f\u3042\u308a\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u8fd1\u304f\u306b\u306f\u795e\u6238\u306e\u65e7\u5c45\u7559\u5730\u3068\u304b\u304c\u3054\u3056\u3044\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u3001\u795e\u6238\u5e02\u306e\u6c34\u306e\u79d1\u5b66\u9928\u3066\u3044\u3046\u306e\u304c\u3054\u3056\u3044\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002\u3053\u3061\u3089\u306f\u3082\u3046\u898b\u305f\u611f\u3058\u3082\u3046\u3001\u660e\u3089\u304b\u306b\u3059\u3054\u3044\u5efa\u7269\u3002",
+      "\u3046\u3093\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6614\u306e\u3053\u3046\u3001\u306a\u3093\u3066\u3044\u3046\u3093\u3067\u3059\u304b\u3002",
+      "\u3042\u306e\u3001\u3082\u3046\u304a\u57ce\u307f\u305f\u3044\u306a\u611f\u3058\u306e\u5efa\u7269\u306a\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u3075\u30fc\u3093\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u30c9\u30a4\u30c4\u306e\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u98a8\u306e\u306d\u3001\u306a\u3093\u304b\u512a\u7f8e\u306a\u304b\u3001\u4f1a\u9928\u3063\u3066\u66f8\u3044\u3066\u3042\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3078\u3047\u30fc\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3059\u3054\u304f\u3042\u306e\u3001\u685c\u306e\u540d\u6240\u3068\u3057\u3066\u3082\u6709\u540d\u3068\u66f8\u304b\u308c\u3066\u304a\u308a\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u305d\u3046\u306a\u3093\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002\u7dba\u9e97\u3067\u3059\u3001\u3059\u3054\u304f\u3042\u306e\u767d\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306a\u3093\u304b\u304a\u57ce\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u304a\u57ce\u306e\u524d\u306b\u306f\u5674\u6c34\u304c\u3042\u308b\u307f\u305f\u3044\u306a\u611f\u3058\u306a\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3078\u30fc\u3059\u3054\u3044\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306a\u3093\u304b\u3061\u3087\u3063\u3068\u884c\u3063\u3066\u307f\u305f\u3044\u306a\u3063\u3066\u3044\u3046\u611f\u3058\u306f\u3059\u308b\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u306f\u3042\u306e\u3001\u3046\u308d\u3053\u306e\u5bb6\u3063\u3066\u3054\u5b58\u77e5\u3067\u3057\u3087\u3046\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u308d\u3053\u306e\u5bb6\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3048\u3001\u795e\u6238\u3060\u3068\u6709\u540d\u306a\u3093\u3067\u3059\u3051\u3069\u3046\u308d\u3053\u306e\u5bb6\u306e\u5c55\u671b\u30ae\u30e3\u30e9\u30ea\u30fc\u3068\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3002",
+      "\u307e\u3042\u5ba4\u5185\u3082\u898b\u3089\u308c\u308b\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3059\u3054\u3044\u3001\u8c6a\u83ef\u306a\u3042\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5199\u771f\u304c\u3053\u3061\u3089\u306b\u3054\u3056\u3044\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u307e\u3042\u795e\u6238\u3067\u306f\u3058\u3081\u306b\u516c\u958b\u3055\u308c\u305f\u4ee3\u8868\u7684\u306a\u5049\u4eba\u9928\u3063\u3066\u3001\u5049\u4eba\u9928\u3067\u3059\u306d\u6614\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3067\u3042\u306e\u3001\u307e\u3042\u53e4\u5178\u30ae\u30e3\u30e9\u30ea\u30fc\u3068\u304b\u3001\u5c55\u671b\u30ae\u30e3\u30e9\u30ea\u30fc\u3068\u304b\u3054\u3056\u3044\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u540d\u753b\u3068\u304b\u3082\u3001\u8272\u3093\u306a\u540d\u753b\u304c\u3001<>\u3068\u304b\u306e\u540d\u753b\u304c\u98fe\u3089\u308c\u3066\u3044\u305f\u308a\u3068\u304b\u3063\u3066\u3044\u3046\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3053\u308c\u306f\u3042\u306e\u795e\u6238\u306e\u4e09\u5bae\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u3053\u3053\u304b\u3089\u795e\u6238\u3060\u3068\u307e\u3042\u8fd1\u304f\u306b\u8272\u3093\u306a\u3082\u306e\u304c\u3054\u3056\u3044\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u82f1\u56fd\u9928\u3068\u304b\u3082\u3054\u3056\u3044\u307e\u3059\u304c\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3044\u304b\u304c\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u5168\u90e8\u53e4\u3044\u5efa\u7269\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3001\u3046\u308d\u3053\u306e\u5bb6\u3068\u304b\u3002",
+      "\u304b\u3082\u3057\u308c\u306a\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u3002",
+      "\u307e\u3001\u307e\u3042\u3042\u306e\u8fd1\u304f\u3001\u307f\u3093\u306a\u8fd1\u3044\u306e\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u795e\u6238\u3092\u3053\u3046\u3001\u6563\u7b56\u3059\u308b\u307f\u305f\u3044\u306a\u5f62\u3060\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u697d\u3057\u3044\u304b\u306a\u3068\u601d\u308f\u308c\u308b\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3042\u305d\u3046\u3067\u3059\u306d\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3046\u308d\u3053\u306e\u5bb6\u4e00\u5fdc\u30ea\u30b9\u30c8\u306b\u3042\u3052\u3066\u307f\u307e\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u306f\u3044\u3002",
+      "\u3058\u3083\u3042\u3061\u3087\u3063\u3068\u795e\u6238\u8fd1\u8fba\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3046\u308d\u3053\u306e\u5bb6\u3068\u3001\u82f1\u56fd\u9928\u3082\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306b\u8fd1\u3044\u306e\u3067\u3001\u305b\u3063\u304b\u304f\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u6700\u521d\u304a\u3063\u3057\u3083\u3063\u3066\u305f\u306e\u306a\u3093\u3067\u3057\u305f\u3063\u3051\u3001\u306a\u3093\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3069\u3044\u3001\u30c9\u30a4\u30c4\u98a8\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3042\u3001\u5c11\u3005\u304a\u5f85\u3061\u4e0b\u3055\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u30c9\u30a4\u30c4\u98a8\u306e\u306f\u3042\u306e\u3002",
+      "\u3061\u3087\u3063\u3068\u96e2\u308c\u3061\u3083\u3046\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u3042\u3042\u306e\u3001\u795e\u6238\u306e\u3001\u795e\u6238\u5e02\u306e\u3002",
+      "\u6c34\u306e\u79d1\u5b66\u9928\u3063\u3066\u3044\u3046\u3068\u3053\u308d\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306f\u3044\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3053\u3061\u3089\u3082\u3058\u3083\u3042\u5165\u308c\u3066\u304a\u304d\u307e\u3057\u3087\u3046\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3059\u3054\u304f\u3042\u306e\u3001\u5674\u6c34\u304c\u3042\u3063\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u30fc\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3061\u3087\u3063\u3068\u79c1\u3082\u884c\u3063\u3066\u307f\u305f\u3044\u307f\u305f\u3044\u306a\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u6c17\u306b\u306a\u308a\u307e\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u611f\u3058\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u7d20\u6575\u306a\u3001\u767d\u3044\u304a\u57ce\u307f\u305f\u3044\u306a\u3068\u3053\u308d\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3068\u4f55\u304b\u3042\u306e\u3001\u3053\u3061\u3089\u3067\u98df\u3079\u3066\u307f\u305f\u3044\u3068\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3082\u3063\u3068\u898b\u305f\u3044\u3068\u304b\u3063\u3066\u3054\u3056\u3044\u307e\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u3001\u305d\u3046\u3067\u3059\u306d\u3002",
+      "\u306a\u3093\u304b\u30b9\u30c6\u30fc\u30ad\u3068\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u725b\u8089\u3001\u8089\u3063\u307d\u3044\u3082\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u304a\u98df\u4e8b\u3001\u8089\u3063\u307d\u3044\u304a\u98df\u4e8b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u307e\u3042\u6709\u99ac\u306a\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u897f\u6751\u5c4b\u3001\u548c\u98df\u3002",
+      "\u3055\u3044\u3001\u3042\u306e\u3001\u65ec\u83dc\u3063\u3066\u3044\u3046\u3068\u3053\u308d\u304c\u3042\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u7d50\u69cb\u8c6a\u83ef\u306a\u611f\u3058\u3067\u3059\u306d\u3001\u3053\u308c\u306f\u3002",
+      "\u3042\u3001\u3067\u3082\u304a\u663c\u3082\u3084\u3063\u3066\u307e\u3059\u306e\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u3001\u3053\u3061\u3089\u3061\u3087\u3063\u3068\u3042\u306e\u548c\u98df\u306b\u306a\u308b\u3093\u3067\u3059\u304c\u3001\u8089\u304b\u3002",
+      "\u8089\u306f\u3001\u3048\u30fc\u3001\u795e\u6238\u8fce\u8cd3\u9928\u3001\u30eb\u30a2\u30f3\u30b3\u3068\u3044\u3046\u3068\u3053\u308d\u304c\u3042\u308b\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3044\u304b\u304c\u3067\u3059\u304b\uff1f\u30b9\u30c6\u30fc\u30ad\u3068\u304b\u3054\u3056\u3044\u307e\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u4fa1\u683c\u5e2f\u3063\u3066\u3069\u3093\u306a\u611f\u3058\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5c11\u3005\u304a\u5f85\u3061\u4e0b\u3055\u3044\u307e\u305b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u3053\u3061\u3089\u306f\u304a\u663c\u304c\u3042\u3063\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u4fa1\u683c\u5e2f\u306f\u7533\u3057\u8a33\u3054\u3056\u3044\u307e\u305b\u3093\u3001\u3061\u3087\u3063\u3068\u8a18\u8f09\u304c\u306a\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u3048\u3001\u3048\u3048\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u30013000\u5186\u304b\u3089\u3067\u3042\u308a\u307e\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u305d\u3046\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u663c\u98df\u3001\u5915\u98df\u306f1\u4e07\u5186\u4ee5\u4e0a\u306a\u3063\u3061\u3083\u3046\u3093\u3067\u3059\u3051\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u30fc\u3058\u3083\u3042\u663c\u306b\u884c\u304d\u307e\u3059\u306d\u3001\u306f\u306f\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u96e8\u3067\u3082\u30aa\u30c3\u30b1\u30fc\u3066\u3044\u3046\u304b\u3001<>\u306a\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u7d50\u69cb\u304a\u3057\u3083\u308c\u306a\u611f\u3058\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002\u305d\u3093\u306a\u611f\u3058\u3067\u3059\u3002",
+      "\u3048\u3048\u3002\u3058\u3083\u3042\u3001\u3042\u306e\u304a\u663c\u306f\u3053\u3053\u3067\u3002",
+      "\u306f\u3044\u3001\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3058\u3083\u3042\u304a\u663c\u306f\u795e\u6238\u8fce\u8cd3\u9928\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5915\u98ef\u306f\u3044\u304b\u304c\u3044\u305f\u3057\u307e\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3048\u30fc\u5915\u98ef\u306f\u3002",
+      "\u3042\u3001\u3055\u3063\u304d\u6709\u99ac\u3063\u3066\u51fa\u3066\u307e\u3057\u305f\u3051\u3069\u6709\u99ac\u3002",
+      "\u6709\u99ac\u6e29\u6cc9\u3067\u3059\u3088\u306d\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u6e29\u6cc9\u306e\u3042\u308b\u3068\u3053\u308d\u3067\u3059\u3088\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3001\u6e29\u6cc9\u304c\u3042\u308b\u8fd1\u304f\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3058\u3083\u3042\u6e29\u6cc9\u306b\u5165\u3063\u3066\u3001\u305d\u306e\u8fd1\u304f\u3067\u306a\u3093\u304b\u3002",
+      "\u7f8e\u5473\u3057\u3044\u3082\u306e\u98df\u3079\u305f\u3044\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3001\u627f\u77e5\u3057\u307e\u3057\u305f\u3002",
+      "\u3061\u3087\u3063\u3068\u3058\u3083\u3042\u6e29\u6cc9\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306a\u3093\u304b\u65e5\u5e30\u308a\u6e29\u6cc9\u3068\u3002",
+      "\u3054\u98ef\u304c\u98df\u3079\u308c\u308b\u5bbf\u3068\u304b\u3042\u308a\u307e\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5915\u98ef\u3067\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5c11\u3005\u304a\u5f85\u3061\u4e0b\u3055\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6e29\u6cc9\u3060\u3068\u3002",
+      "\u3061\u3087\u3063\u3068\u5f85\u3063\u3066\u304f\u3060\u3055\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6e29\u6cc9\u3067\u65e5\u5e30\u308a\u3002",
+      "\u5915\u98ef\u3060\u3051\u3063\u3066\u3044\u3046\u306e\u306f\u306a\u3093\u304b\u306a\u3055\u305d\u3046\u306a\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u305d\u3046\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u3002\u3058\u3083\u3042\u65e5\u5e30\u308a\u6e29\u6cc9\u3068\u304b\u3002",
+      "\u3061\u3087\u3063\u3068\u5f85\u3063\u3066\u304f\u3060\u3055\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u7acb\u3061\u5bc4\u308a\u6e6f\u3063\u3066\u3044\u3046\u306e\u304c\u3042\u308b\u3093\u3067\u3059\u3051\u3069\u3082\u3001\u3084\u3063\u3071\u795e\u6238\u306b\u3042\u308a\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u3053\u3061\u3089\u306f\u3002",
+      "\u671d\u306e7\u6642\u534a\u304b\u3089\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3088\u3001\u7fcc\u306e0\u664230\u5206\u307e\u3067\u5165\u308c\u307e\u3059\u306e\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3053\u3061\u3089\u306f\u3044\u304b\u304c\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u3042\u306e\u6709\u99ac\u6e29\u6cc9\u306b\u884c\u3063\u3066\u307f\u305f\u3044\u3093\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6709\u99ac\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u6709\u99ac\u6e29\u6cc9\u3067\u65e5\u5e30\u308a\u3063\u3066\u3042\u308a\u307e\u3059\u304b\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6709\u99ac\u3067\u306f\u3061\u3087\u3063\u3068\u3001\u3042\u3002",
+      "\u3048\u3063\u3068\u795e\u6238\u30af\u30a2\u30cf\u30a6\u30b9\u3063\u3066\u3044\u3046\u306e\u304c\u3042\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u7acb\u3061\u5bc4\u308a\u6e6f\u3067\u3054\u3056\u3044\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "24\u6642\u9593\u55b6\u696d\u3067\u3001\u3048\u3063\u3068\u3002",
+      "\u7121\u4f11\u3067\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u3001\u70b9\u691c\u306e\u305f\u3081\u306b\u4f11\u9928\u3059\u308b\u65e5\u304c\u3042\u308b\u307f\u305f\u3044\u3067\u3059\u3051\u308c\u3069\u3082\u3001\u5927\u4eba\u306f990\u5186\u3067\u304a\u697d\u3057\u307f\u3044\u305f\u3060\u3051\u307e\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3053\u3061\u3089\u306f\u3044\u304b\u304c\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u3053\u308c\u6709\u99ac\u6e29\u6cc9\u306b\u3042\u308b\u3093\u3067\u3059\u304b\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u3058\u3083\u3042\u305d\u3061\u3089\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6709\u99ac\u6e29\u6cc9\u306e\u5efa\u7269\u306e\u3002",
+      "\u3042\u308a\u3001\u3042\u306e\u3001\u795e\u6238\u30af\u30a2\u30cf\u30a6\u30b9\u3068\u3044\u3046\u3068\u3053\u308d\u3067\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u306f\u3044\u3002",
+      "\u3058\u3083\u3042\u305d\u3053\u306b\u884c\u304d\u307e\u3059\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u5915\u98ef\u306f\u3067\u306f\u3053\u306e\u8fd1\u304f\u3067\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3001\u6709\u99ac\u306e\u8fd1\u304f\u3067\u3001\u5915\u98ef\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6709\u99ac\u306e\u5915\u98ef\u3002",
+      "\u3046\u30fc\u3093\u3002",
+      "\u548c\u98df\u306e\u307b\u3046\u304c\u3088\u308d\u3057\u3044\u3067\u3059\u3088\u306d\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3001\u663c\u30b9\u30c6\u30fc\u30ad\u98df\u3079\u3066\u308b\u306e\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u3088\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u308c\u4ee5\u5916\u3067\u3001\u548c\u98df\u3058\u3083\u306a\u304f\u3066\u3082\u3044\u3044\u3067\u3059\u3051\u3069\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u30fc\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u548c\u98df\u3001\u308f\u3001\u548c\u61d0\u98df\u304b\u306a\u3084\u307e\u3068\u3044\u3046\u3068\u3053\u308d\u304c\u3054\u3056\u3044\u307e\u3057\u3066\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3061\u3089\u306f\u3042\u306e\u3001\u548c\u98df\u3067\u3042\u308a\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002\u306a\u304a\u304b\u3064\u304a\u663c\u3001\u591c\u3082\u3002",
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "18\u6642\u304b\u308920\u6642\u307e\u3067\u3084\u3063\u3066\u304a\u308a\u307e\u3057\u3066\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u9589\u5e97\u65e5\u304c\u65e5\u66dc\u65e5\u306a\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3046\u3093\u3046\u3093\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3042\u306e\u3001\u3044\u304b\u304c\u3067\u3059\u304b\uff1f\u4e09\u5bae\u306a\u306e\u3067\u8fd1\u3044\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u3001\u305d\u3046\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u4ed6\u306b\u306a\u3093\u304b\u3042\u308a\u307e\u3059\u304b\u306d\u3001\u3042\u306e\u3002",
+      "\u306a\u3093\u304b\u4ed6\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u4ed6\u306f\u3042\u306e\u3001\u306a\u3093\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u4ed6\u306e\u97d3\u56fd\u6599\u7406\u307f\u305f\u3044\u306a\u3001\u5225\u306e\u56fd\u306e\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u6599\u7406\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u8336\u623f\u30c1\u30e3\u3001\u30c1\u30c3\u30af\u30bf\u30c3\u30af\u3063\u3066\u3044\u3046\u306e\u304c\u3042\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u6709\u99ac\u3067\u3001\u3053\u3053\u306f\u3042\u306e\u30fc\u3002",
+      "\u30e9\u30f3\u30c1\u306e\u307f\u3067\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u30fc\u30e9\u30f3\u30c1\u306e\u307f\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3058\u3083\u3042\u5927\u4f53\u548c\u98df\u306b\u306a\u3063\u3066\u308b\u611f\u3058\u3067\u3059\u304b\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3001\u3053\u306e\u306f\u3058\u3081\u306e\u3057\u304b\u3061\u3087\u3063\u3068\u3042\u3068\u91e3\u308a\u5800\u307f\u305f\u3044\u306a\u3068\u3053\u308d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u306f\u306f\u3002\u306f\u3044\u3001\u9b5a\u3092\u91e3\u3063\u3066\u98df\u3079\u308b\u3068\u304b\u3001\u305d\u3046\u3044\u3046\u306e\u3057\u304b\u306a\u304f\u3063\u3066\u3002",
+      "\u3078\u30fc\u3002",
+      "\u9b5a\u3092\u91e3\u3063\u3066\u98df\u3079\u308b\u3093\u3067\u3059\u304b\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u305d\u3046\u306a\u3093\u304b\u3001\u591c\u306f\u5916\u98df\u3067\u591c\u3063\u3066\u3044\u3046\u306e\u304c\u3061\u3087\u3063\u3068\u306a\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002",
+      "\u3042\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306d\u3002",
+      "\u30db\u30c6\u30eb\u3067\u3001\u30db\u30c6\u30eb\u3068\u3044\u3046\u304b\u65c5\u9928\u3067\u98df\u3079\u308b\u7684\u306a\u3068\u3053\u308d\u304c\u591a\u3044\u3093\u3058\u3083\u306a\u3044\u304b\u306a\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u30fc\u306a\u308b\u307b\u3069\u3001\u3042\u3001\u305d\u3046\u3067\u3059\u3088\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u306a\u3093\u3001\u3053\u3061\u3089\u306f\u3069\u3046\u3057\u307e\u3059\u304b\uff1f\u3058\u3083\u3042\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u304b\u306a\u3084\u307e\u69d8\u3067\u3044\u3044\u3067\u3059\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u305d\u3046\u3067\u3059\u306d\u3002\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3053\u3061\u3089\u304b\u306a\u3084\u307e\u3067\u30c1\u30a7\u30c3\u30af\u3057\u3066\u304a\u304d\u307e\u3059\u306d\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u30fc\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3058\u3083\u3042\u5915\u98ef\u306f\u304b\u306a\u3084\u307e\u3067\u548c\u98df\u3092\u3068\u3044\u3046\u3053\u3068\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3048\u3063\u3068\u3001\u4e00\u5fdc\u307e\u3068\u3081\u307e\u3059\u3068\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3046\u308d\u3053\u306e\u5bb6\u3068\u304b\u3001\u82f1\u56fd\u9928\u3092\u6563\u7b56\u3057\u3066\u3002",
+      "\u3042\u3068\u3042\u306e\u3001\u304a\u57ce\u306e\u3088\u3046\u306a\u795e\u6238\u306e\u3059\u3044\u307f\u3001\u3048\u30fc\u77f3\u306e\u3002",
+      "<>\u306e\u79d1\u5b66\u535a\u7269\u9928\u306f\u3044\u3001\u898b\u3066\u3002",
+      "\u3048\u3063\u3068\u3068\u3001\u3048\u30fc\u795e\u6238\u8fce\u8cd3\u9928\u306b\u884c\u304d\u3002",
+      "\u3042\u3068\u3001\u795e\u6238\u306e\u30af\u30a2\u30cf\u30a6\u30b9\u3067\u304a\u98a8\u5442\u306b\u5165\u3063\u3066\u3002",
+      "\u6700\u5f8c\u306f\u3001\u3042\u306e\u3001\u304a\u591c\u3002",
+      "\u306f\u3042\u306e\u548c\u61d0\u98df\u304b\u306a\u3084\u307e\u3067\u304a\u98df\u4e8b\u3068\u3044\u3046\u3053\u3068\u3067\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3088\u308d\u3057\u3044\u3067\u3057\u3087\u3046\u304b\uff1f"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u3042\u3001\u306f\u3044\u3001\u5927\u4e08\u592b\u3067\u3059\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u3067\u306f\u672c\u65e5\u306f\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002"
+    ]
+  },
+  {
+    "speaker": "customer",
+    "utterance": [
+      "\u306f\u3044\u3001\u3069\u3046\u3082\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002"
+    ]
+  },
+  {
+    "speaker": "operator",
+    "utterance": [
+      "\u307e\u305f\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002"
+    ]
+  }
+]

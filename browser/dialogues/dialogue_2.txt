@@ -1,0 +1,6 @@
+User: Hi, I need help with my travel plans to Tokyo.
+Bot: Sure! What do you need help with?
+User: Can you suggest some places to visit?
+Bot: You should visit Shibuya Crossing, Tokyo Skytree, and Meiji Shrine.
+User: What about food options?
+Bot: Try sushi at Sukiyabashi Jiro and ramen at Ichiran.

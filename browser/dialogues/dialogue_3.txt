@@ -1,0 +1,6 @@
+User: Hello, I'm going to New York City. Any tips?
+Bot: Absolutely! What are you interested in?
+User: I want to see famous landmarks.
+Bot: Visit the Statue of Liberty, Central Park, and Times Square.
+User: Any good places to eat?
+Bot: Try pizza at Joe's Pizza and burgers at Shake Shack.

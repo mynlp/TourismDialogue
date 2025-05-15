@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourism Dialogue Parsing Tool</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <style>
+        /* General Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .container {
+            display: flex;
+            margin: 20px;
+            gap: 20px;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        /* Left Section (Dialogue History) */
+        .left {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 48%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .file-selector {
+            margin-bottom: 20px;
+        }
+
+        .file-selector select {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+
+        .dialogue-history-section {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .dialogue-history-section h2 {
+            margin-bottom: 10px;
+        }
+
+        .dialogue-history {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            flex: 1;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            max-height: 400px; /* Fixed height for scrollable content */
+        }
+
+        .dialogue-history li {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            cursor: pointer;
+        }
+
+        .dialogue-history li.selected {
+            background-color: #e0f7fa;
+        }
+
+        .dialogue-history li:last-child {
+            border-bottom: none;
+        }
+
+        .icon {
+            margin-right: 10px;
+            font-size: 20px;
+        }
+
+        .user-icon {
+            color: #2980b9;
+        }
+
+        .bot-icon {
+            color: #27ae60;
+        }
+
+        .bubble {
+            background-color: #f1f1f1;
+            border-radius: 10px;
+            padding: 8px 12px;
+            max-width: 70%;
+            word-wrap: break-word;
+        }
+
+        .user-bubble {
+            background-color: #2980b9;
+            color: white;
+            margin-left: auto;
+        }
+
+        .bot-bubble {
+            background-color: #27ae60;
+            color: white;
+            margin-right: auto;
+        }
+
+        /* Right Section (Text Parsing) */
+        .right {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 48%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .right h2 {
+            margin-bottom: 10px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 120px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-size: 16px;
+            resize: none;
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 15px;
+            background-color: #2980b9;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            align-self: flex-start;
+        }
+
+        button:disabled {
+            background-color: #7f8c8d;
+            cursor: not-allowed;
+        }
+
+        .parsing-result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f1f1f1;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #2c3e50;
+            color: white;
+            width: 100%;
+        }
+
+        /* Utility Classes */
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Tourism Dialogue Parsing Tool
+    </header>
+    <div class="container">
+        <!-- Left Section: Dialogue History -->
+        <div class="left">
+            <div class="file-selector">
+                <h2>Select Dialogue History File</h2>
+                <select id="file-selector" onchange="loadDialogueHistory()">
+                    <option value="-1">Select a file</option>
+                    {% for file in file_list %}
+                        <option value="{{ loop.index0 }}">{{ file }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div id="dialogue-history-section" class="dialogue-history-section hidden">
+                <h2>Dialogue History</h2>
+                <ul id="dialogue-history" class="dialogue-history">
+                    <!-- Dialogue history will be dynamically populated here -->
+                </ul>
+            </div>
+        </div>
+
+        <!-- Right Section: Text Parsing -->
+        <div class="right">
+            <h2>Text for Parsing</h2>
+            <textarea id="text-to-parse" placeholder="Enter text here..."></textarea>
+            <button id="parse-button" onclick="parseText()">Parse Text</button>
+            <h2>Parsing Result</h2>
+            <div id="parsing-result" class="parsing-result">
+                No results yet.
+            </div>
+        </div>
+    </div>
+    <footer>
+        &copy; 2025 Tourism Dialogue Parsing Tool. All rights reserved.
+    </footer>
+
+    <script>
+        let selectedIndex = null;
+        let selectedFileIndex = null;  // Track the selected file index
+        const socket = io();
+
+        socket.on('history_loaded', function(data) {
+            const dialogueHistory = document.getElementById('dialogue-history');
+            dialogueHistory.innerHTML = '';
+
+            data.dialogue_history.forEach((line, index) => {
+                const li = document.createElement('li');
+                li.setAttribute('data-index', index);
+
+                if (line.startsWith('User:')) {
+                    li.innerHTML = `
+                        <i class="fas fa-user icon user-icon"></i>
+                        <div class="bubble user-bubble">${line.replace('User: ', '')}</div>
+                    `;
+                } else {
+                    li.innerHTML = `
+                        <i class="fas fa-robot icon bot-icon"></i>
+                        <div class="bubble bot-bubble">${line.replace('Bot: ', '')}</div>
+                    `;
+                }
+
+                li.addEventListener('click', () => {
+                    document.querySelectorAll('#dialogue-history li').forEach(item => {
+                        item.classList.remove('selected');
+                    });
+                    li.classList.add('selected');
+                    selectedIndex = index;
+                    document.getElementById('text-to-parse').value = line.replace(/^(User|Bot): /, '');
+                });
+
+                dialogueHistory.appendChild(li);
+            });
+
+            document.getElementById('dialogue-history-section').classList.remove('hidden');
+        });
+
+        socket.on('text_parsed', function(data) {
+            document.getElementById('parsing-result').innerText = data.parsing_result;
+            document.getElementById('parse-button').disabled = false;
+            document.getElementById('parse-button').innerText = 'Parse Text';
+        });
+
+        function loadDialogueHistory() {
+            const fileIndex = document.getElementById('file-selector').value;
+            if (fileIndex === "-1") {
+                document.getElementById('dialogue-history-section').classList.add('hidden');
+                return;
+            }
+            selectedFileIndex = fileIndex;  // Update the selected file index
+            socket.emit('load_history', { file_index: fileIndex });
+        }
+
+        function parseText() {
+            const text = document.getElementById('text-to-parse').value;
+            if (selectedIndex === null || selectedFileIndex === null) {
+                alert('Please select a line from the dialogue history and ensure a file is selected.');
+                return;
+            }
+
+            const parseButton = document.getElementById('parse-button');
+            parseButton.disabled = true;
+            parseButton.innerText = 'Loading...';
+
+            socket.emit('parse_text', {
+                text: text,
+                index: selectedIndex,
+                file_index: selectedFileIndex  // Pass the file index to the server
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+User: Hello, I'm planning a trip to Paris. Can you help me?
+Bot: Of course! What would you like to know about Paris?
+User: What are some must-visit attractions?
+Bot: You should visit the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.
+User: Thanks! What about restaurants?
+Bot: I recommend Le Jules Verne and Le Comptoir du Relais.
+User: Hello, I'm planning a trip to Paris. Can you help me?
+Bot: Of course! What would you like to know about Paris?
+User: What are some must-visit attractions?
+Bot: You should visit the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.
+User: Thanks! What about restaurants?
+Bot: I recommend Le Jules Verne and Le Comptoir du Relais.
+User: Hello, I'm planning a trip to Paris. Can you help me?
+Bot: Of course! What would you like to know about Paris?
+User: What are some must-visit attractions?
+Bot: You should visit the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.
+User: Thanks! What about restaurants?
+Bot: I recommend Le Jules Verne and Le Comptoir du Relais.
